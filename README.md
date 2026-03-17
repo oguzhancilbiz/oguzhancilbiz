@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/oguzhancilbiz/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhancilbiz" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/oguzhancilbiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhancilbiz" height="30" width="40" /></a>
 </p>
 
 ---
@@ -43,8 +43,8 @@ I'm a highly motivated professional transitioning from a solid **Finance & Insur
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Multi-Domain Data Platform](https://github.com/oguzhancilbiz-hub/ecommerce-logistics-data-platform)** | Modeled Greenweez (E-Commerce) and Circle Parcel (Logistics) data on BigQuery. İmplemented a modular dbt architecture. | dbt, BigQuery, Fivetran |
-| **[Olist SQL Analysis](https://github.com/oguzhancilbiz-hub/Olist-SQL-Analysis)** |Analyzing 100k+ Brazilian marketplace orders. Performed RFM Customer Segmentation, logistics performance tracking, and delivery delay impact on review scores. | BigQuery, SQL,Excel |
+| **[Multi-Domain Data Platform](https://github.com/oguzhancilbiz/ecommerce-logistics-data-platform)** | Modeled Greenweez (E-Commerce) and Circle Parcel (Logistics) data on BigQuery. İmplemented a modular dbt architecture. | dbt, BigQuery, Fivetran |
+| **[Olist SQL Analysis](https://github.com/oguzhancilbiz/Olist-SQL-Analysis)** |Analyzing 100k+ Brazilian marketplace orders. Performed RFM Customer Segmentation, logistics performance tracking, and delivery delay impact on review scores. | BigQuery, SQL,Excel |
 
 ---
 
