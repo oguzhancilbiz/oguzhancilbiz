@@ -51,12 +51,12 @@ I'm a highly motivated professional transitioning from a solid **Finance & Insur
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oguzhancilbiz-hub&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhancilbiz-hub&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oguzhancilbiz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhancilbiz&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oguzhancilbiz-hub&color=blue&style=flat-square&label=Profile+Views" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=oguzhancilbiz&color=blue&style=flat-square&label=Profile+Views" alt="Views" />
 </p>
 
 ---
@@ -64,6 +64,6 @@ I'm a highly motivated professional transitioning from a solid **Finance & Insur
 ## 📈 Activity & Languages
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhancilbiz-hub&layout=compact&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=oguzhancilbiz-hub&theme=github-compact" alt="Activity Graph" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhancilbiz&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=oguzhancilbiz&theme=github-compact" alt="Activity Graph" />
 </p>
