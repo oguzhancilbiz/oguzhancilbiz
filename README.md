@@ -52,7 +52,8 @@ I'm a highly motivated professional transitioning from a solid **Finance & Insur
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oguzhancilbiz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhancilbiz&theme=radical&hide_border=true" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhancilbiz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
@@ -65,5 +66,6 @@ I'm a highly motivated professional transitioning from a solid **Finance & Insur
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhancilbiz&layout=compact&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=oguzhancilbiz&theme=github-compact&bg_color=1a1b27&color=70a5fd&line=70a5fd" alt="Activity Graph" />
+  
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=oguzhancilbiz&theme=github-compact&area=true&hide_border=true" />
 </p>
