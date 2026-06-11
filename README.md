@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan </h1>
-<h3 align="center">A Data Scientist Aspirant | Data Analyst & Analytics Engineer | Ex-Finance & Insurance Professional</h3>
+<h3 align="center">Analytics Engineer & Data Analyst | dbt • BigQuery • SQL • Python | Data Scientist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Building+Robust+Data+Foundations;Transforming+Raw+Data+into+Insights;Modeling+with+dbt+%26+BigQuery;Navigating+the+Path+to+Data+Science" alt="Typing SVG" />
@@ -13,12 +13,13 @@
 
 ## 🚀 About Me
 
-I'm a highly motivated professional transitioning from a solid **Finance & Insurance** background into the dynamic world of **Data Science**. Currently, I'm focusing on **Analytics Engineering**, building robust, scalable data infrastructures. I have hands-on experience in modeling complex data on **Google BigQuery** using **dbt** and automating pipelines.
+I am an Industrial Engineer and Data Professional with a solid 3-year background in **Finance & Insurance (Allianz Türkiye)**, specializing in **Analytics Engineering** and **Data Science**. I bridge the gap between complex business logic and robust data infrastructure by building scalable, end-to-end data models on **Google BigQuery** using **dbt**, and creating impactful business intelligence solutions.
 
-* 🔭 I’m currently working on **End-to-End Data Modeling** Projects.
-* 🌱 I’m currently learning **Python**, **Machine Learning**, and **Advanced Statistical Modeling**.
-* 👯 I’m looking to collaborate on **Data Engineering or Data Science** projects.
-* 💬 Ask me about **dbt**, **BigQuery**, **Fivetran**, **Docker**, or **API integrations**.
+* 🔭 **What I'm doing:** Building and optimizing automated multi-domain data platforms.
+* 🛠️ **Core Expertise:** Data warehouse modeling (dbt, BigQuery), data quality management, and business process development.
+* 🐍 **Python Ecosystem:** Data manipulation and analysis using **Pandas** & **NumPy**, Machine Learning with **Scikit-Learn**, web scraping & APIs via **BeautifulSoup** & **Requests**, and interactive visualization with **Plotly**.
+* 📊 **BI & Reporting:** Designing data-driven dashboards on **Power BI** and **Looker Studio**.
+* 💬 **Ask me about:** dbt, BigQuery, SQL, Fivetran, Docker, and Business Intelligence.
 
 ---
 
