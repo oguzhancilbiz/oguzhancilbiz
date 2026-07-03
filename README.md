@@ -44,9 +44,9 @@ I am an Industrial Engineer and Data Professional with a solid 3-year background
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Multi-Domain Data Platform](https://github.com/oguzhancilbiz/ecommerce-logistics-data-platform)** | Modeled Greenweez (E-Commerce) and Circle Parcel (Logistics) data on BigQuery. İmplemented a modular dbt architecture. | dbt, BigQuery, Fivetran |
-| **[Olist SQL Analysis](https://github.com/oguzhancilbiz/Olist-SQL-Analysis)** |Analyzing 100k+ Brazilian marketplace orders. Performed RFM Customer Segmentation, logistics performance tracking, and delivery delay impact on review scores. | BigQuery, SQL,Excel |
-
+| **[Multi-Domain Data Platform](https://github.com/oguzhancilbiz/ecommerce-logistics-data-platform)** | Modeled Greenweez (E-Commerce) and Circle Parcel (Logistics) data on BigQuery. Implemented a modular dbt architecture. | dbt, BigQuery, Fivetran |
+| **[Olist E-Commerce Statistical Analytics](https://github.com/oguzhancilbiz/Olist-Ecommerce-Analysis-via-Python)** | End-to-end data pipelines and data engineering on 100k+ Brazilian marketplace records. Implemented advanced statistical computing (A/B Testing, T-Test, ANOVA, Chi-Square) to decode logistics latency impacts and payment conversion dynamics. | Python, SciPy, Pandas, Plotly |
+| **[Olist SQL Analysis](https://github.com/oguzhancilbiz/Olist-SQL-Analysis)** | Analyzing over 100,000 Brazilian marketplace orders. Implemented RFM customer segmentation and logistics performance tracking using SQL. | BigQuery, SQL |
 ---
 
 ## 📊 GitHub Stats & Streak
